@@ -4,7 +4,7 @@
 
 ## **NEMO Cookbook Tutorial** - PROMOTE Analysis Sprint
 
-**Last Updated: 13/07/2026**
+**Last Updated: 22/10/2026**
 
 ### **PROMOTE Analysis Sprint**
 
